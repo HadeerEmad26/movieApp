@@ -33,7 +33,7 @@ class WatchListTab extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.all(16.0),
                   child: Text("AVATAR"),
-                )
+                ),
               ],
             ),
             Row(
@@ -47,7 +47,7 @@ class WatchListTab extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.all(16.0),
                   child: Text("TITANIC"),
-                )
+                ),
               ],
             ),
             Row(
@@ -61,7 +61,7 @@ class WatchListTab extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.all(16.0),
                   child: Text("MR:BEAN"),
-                )
+                ),
               ],
             ),
           ],
