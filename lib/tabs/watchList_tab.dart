@@ -11,11 +11,8 @@ class WatchListTab extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("WATCHlIST",
-          style: GoogleFonts.aBeeZee(
-            color: Colors.white,
-            fontWeight: FontWeight.bold,
-            fontSize: 25
-          ),
+          style: GoogleFonts.elMessiri(
+              color: Colors.white, fontWeight: FontWeight.bold, fontSize: 25),
         ),
       ),
     );
